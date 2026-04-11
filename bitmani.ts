@@ -136,3 +136,12 @@
 // }
 
 // console.log(primeFactors([10, 15, 20]));
+
+// function Main() {
+//   let Array = [10];
+//   console.log(Array);
+//   Array.push(20);
+//   console.log(Array);
+//   console.log(Array.shift());
+// }
+// Main();
